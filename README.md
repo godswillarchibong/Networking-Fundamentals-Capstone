@@ -7,7 +7,8 @@ The project is based on a fictitious business scenario to serve a Small Office /
 In this scenario, RICHKIM EMPIRE is established as a cybersecurity-focused startup, and a complete internal network is designed, implemented, and validated.
 The project demonstrates practical networking skills using Cisco Packet Tracer, including LAN design, IP addressing, DHCP, DNS, NAT, and public web service deployment.
 
-🏢 **Company Scenario**
+**🏢 Company Scenario**
+
 **Company Name:** RICHKIM EMPIRE
 **Industry:** Cybersecurity Services
 **Business Size:** Small Office (8 Employees)
@@ -63,14 +64,11 @@ The company maintains a public-facing website and requires a secure internal net
 
 **✅ Testing & Validation**
 The following tests were successfully performed:
-  ✔ Internal client-to-client connectivity (ping test)
-  
-  ✔ DHCP address assignment verification
-  
-  ✔ Internal LAN access to public web server
-  
-  ✔ External client access to company website
-  
-  ✔ NAT translation verification via router CLI
+
+        ✔ Internal client-to-client connectivity (ping test)
+        ✔ DHCP address assignment verification
+        ✔ Internal LAN access to public web server
+        ✔ External client access to company website
+        ✔ NAT translation verification via router CLI
 
 These tests confirm correct network configuration, secure connectivity, and real-world SOHO functionality.
