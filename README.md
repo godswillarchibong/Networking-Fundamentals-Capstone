@@ -24,17 +24,11 @@ The company maintains a public-facing website and requires a secure internal net
 **🛠️ Technologies & Tools Used**
 
       1. Cisco Packet Tracer
-      
       2. IPv4 Networking
-      
       3. DHCP (Dynamic Host Configuration Protocol)
-      
       4. DNS (Domain Name System)
-      
       5. NAT / PAT (Network Address Translation)
-      
       6. LAN Switching & Routing
-      
       7. SOHO Network Design Principles
 
 **🌐 Network Design Summary**
@@ -42,40 +36,29 @@ The company maintains a public-facing website and requires a secure internal net
 **🔹 Internal Network**
 
       1. Private IPv4 addressing: 192.168.20.0/24
-      
       2. Router-based DHCP for automatic IP assignment
-      
       3. Centralized switch connecting
-      
       4. Client PCs
-      
       5. printers
-      
       6. Network scanner
-      
       7. Default gateway configured on the router
 
 **🔹 Shared Office Devices**
 
       1. 4 Network Printers
-      
       2. 1 Network Scanner
 
 **🔹 Public Services**
 
-  1. Public web server hosting the company website
-     
-  3. Domain name access via:
-     http://www.company.com
+      1. Public web server hosting the company website
+      2. Domain name access via:
+           http://www.company.com
 
 🔹 Internet Connectivity & Security
 
       1. Edge router connected to ISP
-      
       2. NAT Overload (PAT) implemented
-      
       3. Internal IP addresses hidden from the Internet
-      
       4. External users can only access the public web server
 
 **✅ Testing & Validation**
