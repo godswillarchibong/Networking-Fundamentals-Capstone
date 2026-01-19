@@ -9,17 +9,17 @@ The project demonstrates practical networking skills using Cisco Packet Tracer, 
 
 **🏢 Company Scenario**
 
-      **Company Name:** RICHKIM EMPIRE
-      **Industry:** Cybersecurity Services
-      **Business Size:** Small Office (8 Employees)
+      Company Name: RICHKIM EMPIRE
+      Industry: Cybersecurity Services
+      Business Size: Small Office (8 Employees)
 
 
 **Staff Structure:**
 
-      Chief Executive Officer (CEO)
-      Business / Operations Manager
-      Technical Staff (Security & Networking)
-       General Administrative Staff
+     Chief Executive Officer (CEO)
+     Business / Operations Manager
+     Technical Staff (Security & Networking)
+     General Administrative Staff
 
 The company maintains a public-facing website and requires a secure internal network to support daily operations and cybersecurity services.
 
