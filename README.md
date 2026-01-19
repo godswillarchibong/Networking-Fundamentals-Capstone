@@ -13,6 +13,7 @@ The project demonstrates practical networking skills using Cisco Packet Tracer, 
 **Industry:** Cybersecurity Services
 **Business Size:** Small Office (8 Employees)
 
+
 **Staff Structure:**
 Chief Executive Officer (CEO)
 Business / Operations Manager
