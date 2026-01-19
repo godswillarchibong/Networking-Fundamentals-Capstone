@@ -15,6 +15,7 @@ The project demonstrates practical networking skills using Cisco Packet Tracer, 
 
 
 **Staff Structure:**
+
 Chief Executive Officer (CEO)
 Business / Operations Manager
 Technical Staff (Security & Networking)
