@@ -16,6 +16,7 @@ The project demonstrates practical networking skills using Cisco Packet Tracer, 
 **Business Size:** Small Office (8 Employees)
 
 
+
 **Staff Structure:**
 
 Chief Executive Officer (CEO)
